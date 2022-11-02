@@ -1,4 +1,4 @@
-# Olá! Eu sou o Ruben Sostenes
+# Olá! Eu sou o Ruben Sostenes estudante de Programação, Bem vindo ao meu Portifólio.
    
 <div align="center">
     <a href="https://github.com/rubensostenes">
@@ -12,7 +12,7 @@
     <img align="center" alt="Ruben-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />   
     <img align="center" alt="Ruben-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ruben-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Ruben-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
+    <img align="center" alt="Ruben-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
   </div>
   
   <p></p>
