@@ -1,9 +1,9 @@
-# Olá! Eu sou o Ruben Sostenes estudante de Programação, Bem vindo ao meu Portifólio.
+# Olá! Eu sou o Ruben Sostenes estudante de Programação.
    
 <div align="center">
     <a href="https://github.com/rubensostenes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubensostenes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensostenes&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensostenes&layout=compact&langs_count=7&theme=dracula"/>
   
  </div>
   
