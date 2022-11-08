@@ -2,11 +2,11 @@
 
 <div align="center">
    <a href="https://github.com/rubensostenes">
-   <img height="148em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=moonlight"/> <br>  
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=moonlight"/> 
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubensostenes&theme=moonlight"/><br>
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=moonlight"/>
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubensostenes&theme=moonlight&utcOffset=8"/>
+   <img height="148em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/> 
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubensostenes&theme=2077"/><br>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubensostenes&theme=2077&utcOffset=8"/>
 </div>
   
  <br>  
