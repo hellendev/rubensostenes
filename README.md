@@ -2,10 +2,11 @@
 
 <div align="center">
    <a href="https://github.com/rubensostenes">
-   <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=tokyonight"/> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rubensostenes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubensostenes&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> 
-   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubensostenes&theme=tokyonight&hide_border=true"/>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=moonlight"/> 
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=moonlight"/> 
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubensostenes&theme=moonlight"/>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=moonlight"/>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubensostenes&theme=moonlight&utcOffset=8"/>
 </div>
   
  <br>  
