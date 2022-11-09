@@ -1,11 +1,10 @@
-< h1  align = "centro" > Olá! Eu sou Ruben Sostenes. </ h1 >
+<h1  align = "centro" > Olá! Eu sou Ruben Sostenes. </ h1 >
 
 <div align="center">
    <a href="https://github.com/rubensostenes">
-   <img height="148em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/> 
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> <be>
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubensostenes&theme=2077&utcOffset=8"/>
+   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> <br>
 </div>
   
  <br>  
@@ -18,7 +17,6 @@
     <img align="center" alt="Ruben-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Ruben-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Ruben-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="rigt" alt="Ruben-gif" height="170" src="ruben.gif">
   </div>
  
  <br>  
