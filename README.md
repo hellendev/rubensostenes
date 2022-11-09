@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Ruben Sostenes.</h1>
+< h1  align = "centro" > Olá! Eu sou Ruben Sostenes. </ h1 >
 
 <div align="center">
    <a href="https://github.com/rubensostenes">
