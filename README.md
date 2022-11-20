@@ -1,8 +1,8 @@
-<h1  align = "centro" > Olá! Eu sou Ruben Sostenes. </ h1 >
+<h1  align = "center" > Hello! I'm Ruben Sostenes. </ h1 >
 
 <div align="center">
    <a href="https://github.com/rubensostenes">
-   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
+   <img height="150cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/> 
    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> <br>
 </div>
