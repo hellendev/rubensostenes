@@ -1,30 +1,31 @@
 <h1  align = "center" > Hello! I'm Ruben Sostenes. </ h1 >
 
 <div align="center">
-   <a href="https://github.com/rubensostenes">
-   <img height="150cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
+ <a href="https://github.com/rubensostenes">
+ <img height="150cm" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubensostenes&theme=2077"/> <br>  
    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/> 
    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> <br>
 </div>
   
 ### Sobre mim:
 
-- 🙋‍♂️ Um rapaz simples e dedicado
+- 🙋‍♂️ Um rapaz legal e super dedicado
 
 - 🚀 No momento estou me especializando em Back-end, mas tenho como objetivo me tornar Full-Stack onde para isso venho estudando diariamente.
 
-- 🌱 Atualmente estou me aprofundando na linguagem: <b>Java</b> e <b>Spring Framework</b>.
+- 🌱 Atualmente estou me aprofundando na linguagem: <b>Java</b> 
 
 ### Tecnologias e ferramentas:
 
  <div> 
-   <img align="center" alt="Ruben-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="Ruben-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Ruben-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
-    <img align="center" alt="Ruben-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    <img align="center" alt="Ruben-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-    <img align="center" alt="Ruben-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  </div>
+ <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+ <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />        
+ <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+ <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+ </div>
  
  
  ### Contato
