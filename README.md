@@ -12,8 +12,8 @@
 
 <div align="center">
 <a href="https://github.com/rubensostenes">
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> 
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubensostenes&theme=2077"/>
+<img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubensostenes&theme=2077"/> 
 </div>
 
 ### Tecnologias e ferramentas:
